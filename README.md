@@ -14,6 +14,9 @@ Aller sur cette page : https://collectif.greenit.fr/outils.html
 Dans « GreenIT-Analysis - Calcul automatique d'un EcoIndex + Ecometer – extension », cliquer sur « Installer l'extension EcoIndex pour Firefox/Chrome »
 Cliquer sur « Ajouter »
 
+Via Chrome :  
+- https://chromewebstore.google.com/detail/ecoindexfr/apeadjelacokohnkfclnhjlihklpclmp?pli=1
+
 **Utiliser Ecoindex :**
 
 Faire F12 ou Fn + F12
