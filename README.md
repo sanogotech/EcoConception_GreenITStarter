@@ -1,9 +1,12 @@
 # GreenITStarter
 Green IT Starter
 
+
 ##  Starter 
 
-1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez. 
+1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
+
+  Fork:  https://github.com/sanogotech/best-practicesEcoDesignGreenIT
 
 2) Veuillez également télécharger l’extension web GreenIT analysis en suivant les instruction ci-dessous : 
 Installer Plugin Ecoindex :
