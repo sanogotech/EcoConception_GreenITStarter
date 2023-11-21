@@ -27,6 +27,9 @@ Cliquer sur « Sauver l’analyse »
 ## Pythhon Install
 ```
 pip install ecoindex-scraper
+nstall setuptools in your machine
+
+pip install setuptools
 ```
 
 **Get a page analysis**
