@@ -42,7 +42,12 @@ Approche méthodique pour poser le cadre sur tout le cycle de vie avec une étud
 - IT  For Green ( IT pour dev durable,IT pour planter les arbres ds le sahara, Covoiturage)
 - Green IT ( Reduction des impacts du numérique  sur Climant/Bi)
 - IT for GOOD( IT pour impacter les 17 objectifs du millenaires: Application IT pour sensibiliser sur le diabetes)
-  
+
+## REX PEEK VISION
+
+- Peek Acuity – Applications sur Google Play
+- https://peekvision.org/
+
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
