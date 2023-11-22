@@ -52,6 +52,8 @@ Approche méthodique pour poser le cadre sur tout le cycle de vie avec une étud
 
 De L'idée  -  Decomission* 
 
+![Cycle de vie Service Numerique](https://github.com/sanogotech/GreenITStarter/blob/main/images/CycleVieServiceNumerique.jpg)
+
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
