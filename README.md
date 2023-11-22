@@ -17,7 +17,7 @@ Green IT Starter
 - Utilisation: 15%
 - Fin de Vie: 5%
 
-## Obscolescence Programmée vs Marketing
+## Obscolescence Programmée vs Marketing // Lobby ?
 
 - Chez les grands industrielle (reduire la resilience et la robustesse)
 - Pas de possiblité de changer les pièces
