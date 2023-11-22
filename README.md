@@ -62,9 +62,18 @@ Bootstrap includes 260 glyphs from the Glyphicon Halflings set. Glyphicons Halfl
 
 ##  Greenit analysis
 
+Via Chrome :  
+- https://chromewebstore.google.com/detail/ecoindexfr/apeadjelacokohnkfclnhjlihklpclmp?pli=1
+
+Ex de Tests:
+
 https://chromewebstore.google.com/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr
 
+## Ecoindex
 
+- https://www.ecoindex.fr/resultat/?id=9217b68d-9b90-4c5a-ab67-59d1eb6f8fea
+
+  
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
