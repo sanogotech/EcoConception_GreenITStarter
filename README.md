@@ -11,6 +11,12 @@ Green IT Starter
 
 - 6 /9 ont été depassé.
 
+##  ACV(Analyse du Cycle de Vie)
+
+- Fabrication : 80% (impact)
+- Utilisation: 15%
+- Fin de Vie: 5%
+  
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
