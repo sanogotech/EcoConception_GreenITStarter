@@ -59,7 +59,12 @@ De L'idée  -  Decomission*
 Bootstrap includes 260 glyphs from the Glyphicon Halflings set. Glyphicons Halflings are normally not available for free, but their creator has made them available for Bootstrap free of cost. As a thank you, you should include a link back to Glyphicons whenever possible.
 
 - https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
-  
+
+##  Greenit analysis
+
+https://chromewebstore.google.com/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr
+
+
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
