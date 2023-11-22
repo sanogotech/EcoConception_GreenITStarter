@@ -11,7 +11,7 @@ Green IT Starter
 
 - 6 /9 ont été depassé.
 
-##  ACV(Analyse du Cycle de Vie)
+##  ACV(Analyse du Cycle de Vie),  norme ISO
 
 - Fabrication : 80% (impact)
 - Utilisation: 15%
