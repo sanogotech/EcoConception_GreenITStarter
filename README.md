@@ -37,6 +37,12 @@ Approche méthodique pour poser le cadre sur tout le cycle de vie avec une étud
 -  3 :  Innovation Produit /Nouveau concept ( service de location de Vélo)
 -  4 :  Rupture / Innovation du Système
 
+##  Numerique Responsable
+
+- IT  For Green ( IT pour dev durable,IT pour planter les arbres ds le sahara, Covoiturage)
+- Green IT ( Reduction des impacts du numérique  sur Climant/Bi)
+- IT for GOOD( IT pour impacter les 17 objectifs du millenaires: Application IT pour sensibiliser sur le diabetes)
+  
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
