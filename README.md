@@ -3,6 +3,9 @@ Green IT Starter
 
 * Numérque 4%  impact C02
 
+## Impact 3 Axes :   Climat / Biodiversité / Ressources(mineraux, sol, eau)
+
+- Preserver l'environnement
 
 ## 9  Seuils à ne pas depasser
 
