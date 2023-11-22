@@ -1,6 +1,15 @@
 # GreenITStarter
 Green IT Starter
 
+* Numérque 4%  impact C02
+
+## Impact 3 Axes :   Climat / Biodiversité / Ressources(mineraux, sol, eau)
+
+- Preserver l'environnement
+
+## 9  Seuils à ne pas depasser
+
+- 6 /9 ont été depassé.
 
 ##  Starter 
 
@@ -27,6 +36,9 @@ Cliquer sur « Sauver l’analyse »
 ## Pythhon Install
 ```
 pip install ecoindex-scraper
+nstall setuptools in your machine
+
+pip install setuptools
 ```
 
 **Get a page analysis**
