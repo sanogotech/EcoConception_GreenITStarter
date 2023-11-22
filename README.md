@@ -23,7 +23,11 @@ Green IT Starter
 - Pas de possiblité de changer les pièces
 - Incompatibilité
 - Obsolescence psycologique
-  
+
+##  Economie Cicuculaire  vs EcoConception
+
+* Economie Cicuculaire ( boucle fermé, local usage).
+ 
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
