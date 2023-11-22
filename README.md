@@ -11,6 +11,19 @@ Green IT Starter
 
 - 6 /9 ont été depassé.
 
+##  ACV(Analyse du Cycle de Vie),  norme ISO
+
+- Fabrication : 80% (impact)
+- Utilisation: 15%
+- Fin de Vie: 5%
+
+## Obscolescence Programmée vs Marketing // Lobby ?
+
+- Chez les grands industrielle (reduire la resilience et la robustesse)
+- Pas de possiblité de changer les pièces
+- Incompatibilité
+- Obsolescence psycologique
+  
 ##  Starter 
 
 1) Vous pouvez accéder aux 115 bonnes pratiques de l’éco-conception web à l’adresse suivante : https://github.com/cnumr/best-practices. Nous utiliserons cette ressources demain ensemble, mais vous pouvez déjà commencer à la lire si vous le désirez.
