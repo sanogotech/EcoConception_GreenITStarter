@@ -3,6 +3,10 @@ Green IT Starter
 
 * Numérque 4%  impact C02
 
+##  Docs
+
+- https://miro.com/app/board/uXjVNMZwvYs=/ 
+
 ## Impact 3 Axes :   Climat / Biodiversité / Ressources(mineraux, sol, eau)
 
 - Preserver l'environnement
@@ -62,14 +66,16 @@ Bootstrap includes 260 glyphs from the Glyphicon Halflings set. Glyphicons Halfl
 
 ##  Greenit analysis
 
-Via Chrome :  
-- https://chromewebstore.google.com/detail/ecoindexfr/apeadjelacokohnkfclnhjlihklpclmp?pli=1
+Via Chrome :  https://chromewebstore.google.com/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr
 
 Ex de Tests:
 
 https://chromewebstore.google.com/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr
 
 ## Ecoindex
+
+Via Chrome :  
+- https://chromewebstore.google.com/detail/ecoindexfr/apeadjelacokohnkfclnhjlihklpclmp?pli=1
 
 - https://www.ecoindex.fr/resultat/?id=9217b68d-9b90-4c5a-ab67-59d1eb6f8fea
 
