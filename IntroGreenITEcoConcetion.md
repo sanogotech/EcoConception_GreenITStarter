@@ -13,6 +13,32 @@ Les principaux objectifs de l'écoconception et du Green IT incluent :
 - **Sensibilisation et éducation** : Promouvoir des pratiques de développement durable auprès des développeurs, des entreprises et des utilisateurs finaux.
 - **Innovation durable** : Encourager l'innovation technologique qui respecte l'environnement et contribue à un développement durable.
 
+## Les 9 Limites Planétaires et l'Importance du Green IT : 6/9 KO ???
+
+Les limites planétaires sont un concept proposé par un groupe de scientifiques dirigé par Johan Rockström en 2009. Elles définissent les frontières écologiques sûres pour l'humanité. Il y a 9 limites planétaires, et des études récentes montrent que 6 de ces 9 limites ont déjà été dépassées, ce qui menace la stabilité de la planète :
+
+1. **Changement climatique**
+2. **Perte de biodiversité**
+3. **Perturbation des cycles de l'azote et du phosphore**
+4. **Changement d'utilisation des sols**
+5. **Acidification des océans**
+6. **Utilisation de l'eau douce**
+7. **Pollution chimique**
+8. **Charge atmosphérique en aérosols**
+9. **Appauvrissement de la couche d'ozone**
+
+| **Limite Planétaire**                | **Description**                                                           | **Indicateurs**                          | **Date**       | **Exemples**                             | **Top 5 des Conséquences**                                   | **Actions à Faire**                                                                                                                                                                       |
+|--------------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------|------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Changement climatique**            | Augmentation de la température moyenne mondiale au-delà de 2°C.          | Concentration de CO2 dans l'atmosphère    | En cours       | Émissions de gaz à effet de serre       | - Augmentation des températures moyennes                    | - Réduire les émissions de CO2 en utilisant des énergies renouvelables <br> - Adopter des pratiques de Green IT pour réduire la consommation énergétique des data centers                 |
+| **Perte de biodiversité**           | Diminution significative de la variété des espèces animales et végétales.| Taux d'extinction des espèces            | En cours       | Destruction des habitats naturels        | - Perturbation des écosystèmes                             | - Encourager la préservation des habitats naturels <br> - Adopter des pratiques de développement durable pour minimiser l'impact sur les écosystèmes                                  |
+| **Perturbation des cycles de l'azote et du phosphore** | Altération des cycles naturels de l'azote et du phosphore.     | Taux de pollution des sols et des eaux   | En cours       | Utilisation excessive d'engrais chimiques | - Dégradation de la qualité des sols et des eaux           | - Réduire l'utilisation d'engrais chimiques <br> - Favoriser des pratiques agricoles durables et respectueuses de l'environnement                                                            |
+| **Changement d'utilisation des sols** | Conversion des terres naturelles en terres agricoles ou urbaines.      | Taux de déforestation et d'urbanisation   | En cours       | Déforestation, expansion urbaine         | - Perte d'habitats naturels                                | - Promouvoir la reforestation et la restauration des écosystèmes <br> - Adopter des politiques d'urbanisation durable et de préservation des espaces naturels                                |
+| **Acidification des océans**        | Augmentation du pH des océans due à l'absorption du CO2 atmosphérique.  | Niveau de pH des océans                   | En cours       | Émissions de CO2                          | - Menace pour les écosystèmes marins                        | - Réduire les émissions de CO2 et limiter l'acidification des océans <br> - Encourager la protection des récifs coralliens et des écosystèmes marins                                      |
+| **Utilisation de l'eau douce**      | Consommation excessive d'eau douce pour l'agriculture et l'industrie.    | Taux de prélèvement d'eau douce          | En cours       | Irrigation intensive, industries         | - Stress hydrique dans les régions arides                  | - Adopter des pratiques agricoles et industrielles plus économes en eau <br> - Favoriser la réutilisation et la gestion durable des ressources en eau                                          |
+
+
+Le Green IT et l'écoconception peuvent contribuer à atténuer certains de ces impacts, en particulier ceux liés à la consommation énergétique, à l'utilisation des ressources et à la réduction des déchets électroniques.
+
 ## Tableau des Principes et Pratiques de l'Écoconception de Sites Web
 
 | **Catégorie**                     | **Pratiques et Principes**                                                                                                                                         | **Description**                                                                                                         | **Exemples d'outils**                                                         |
