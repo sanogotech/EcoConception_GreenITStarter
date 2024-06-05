@@ -41,7 +41,7 @@ Les limites planétaires sont un concept proposé par un groupe de scientifiques
 | **Utilisation de l'eau douce**      | Consommation excessive d'eau douce pour l'agriculture et l'industrie.    | Taux de prélèvement d'eau douce          | En cours       | Irrigation intensive, industries         | - Stress hydrique dans les régions arides                  | - Adopter des pratiques agricoles et industrielles plus économes en eau <br> - Favoriser la réutilisation et la gestion durable des ressources en eau                                          |
 
 
-## Tableau des Principes et Pratiques de l'Écoconception de Sites Web
+## 🌱 Tableau des Principes et Pratiques de l'Écoconception de Sites Web
 
 | **Catégorie**                     | **Pratiques et Principes**                                                                                                                                         | **Description**                                                                                                         | **Exemples d'outils**                                                         |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
