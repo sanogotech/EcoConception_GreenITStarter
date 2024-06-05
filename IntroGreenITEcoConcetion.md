@@ -89,6 +89,22 @@ Cette situation met en évidence l'urgence d'agir pour préserver notre planète
 | **Acteurs principaux**         | Entreprises IT, développeurs de logiciels, gestionnaires de data centers.                                                                                   | Agriculteurs, gestionnaires de réseaux énergétiques, entreprises de transport, organisations environnementales.                                                      |
 
 
+## Évaluation des Sites Web avec EcoIndex
+
+L'EcoIndex est un outil d'évaluation environnementale des sites web, visant à mesurer leur impact écologique et à promouvoir des pratiques de développement durable. En attribuant des notes de A à G, l'EcoIndex permet aux propriétaires de sites web et aux développeurs de comprendre l'empreinte environnementale de leur plateforme en ligne et d'identifier les domaines où des améliorations peuvent être apportées.
+
+Voici une synthèse sous forme de tableau expliquant les notes de A à G dans l'EcoIndex :
+
+| Note | Signification                                                                                                                             |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| A    | Excellente : Le site web présente un faible impact environnemental et adopte des pratiques de développement durable.                      |
+| B    | Bonne : Le site web affiche un impact environnemental modéré et intègre quelques pratiques durables.                                    |
+| C    | Satisfaisante : Le site web a un impact environnemental moyen et pourrait bénéficier d'améliorations.                                    |
+| D    | Passable : Le site web a un impact environnemental notable et nécessite des ajustements significatifs.                                   |
+| E    | Médiocre : Le site web a un impact environnemental élevé et nécessite une révision approfondie de ses pratiques.                         |
+| F    | Insuffisante : Le site web a un impact environnemental très élevé et requiert des changements majeurs.                                  |
+| G    | Très insuffisante : Le site web a un impact environnemental extrêmement élevé et doit être complètement repensé.                        |
+
 ### Bonnes Pratiques d'Écoconception Web avec Indicateurs et Exemples
 
 | Numéro | Pratique                                           | Indicateurs                                   | Principes                                        | Exemples                                      | Exemples de Métriques                         | OK                               | KO                                 |
