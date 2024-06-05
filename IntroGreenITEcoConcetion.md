@@ -54,7 +54,7 @@ Cette situation met en évidence l'urgence d'agir pour préserver notre planète
 | 6      | Déforestation                     | Perte de puits de carbone, destruction d'habitats | 8%                  | Défrichement pour l'agriculture et l'élevage, exploitation forestière | Reforestation, protection des écosystèmes                  |
 | 7      | Industrie alimentaire             | Émissions de gaz à effet de serre, déforestation | 6%                  | Déforestation pour l'expansion agricole, utilisation d'engrais et de pesticides | Agriculture durable, alimentation végétale                   |
 | 8      | Utilisation des sols             | Déforestation, perte de biodiversité    | 4%                  | Déforestation pour l'agriculture et l'urbanisation, érosion des sols | Gestion durable des terres, reboisement                      |
-| 9      | Gestion des déchets               | Émissions de méthane, pollution         | 3%                  | Méthodes d'élimination des déchets, décharges non contrôlées | Recyclage, compostage, gestion des déchets organiques        |
+| 9      | Gestion des déchets               | Émissions de méthane, pollution         | 3%  à 5%                | Méthodes d'élimination des déchets, décharges non contrôlées | Recyclage, compostage, gestion des déchets organiques        |
 | 10     | Technologies de l'Information (IT) | Consommation d'énergie, émissions de CO2 | 2% à 4%                 | Utilisation de data centers, obsolescence rapide des appareils | Virtualisation, efficacité énergétique des data centers      |
 
 
