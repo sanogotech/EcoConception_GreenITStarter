@@ -16,20 +16,22 @@ Les principaux objectifs de l'écoconception et du Green IT incluent :
 - 💡 **Innovation durable** : Encourager l'innovation technologique qui respecte l'environnement et contribue à un développement durable.
 
 
-
 ## 🌍 Les 9 Limites Planétaires et l'Importance du Green IT : 6/9 KO ???
 
-Les limites planétaires sont un concept proposé par un groupe de scientifiques dirigé par Johan Rockström en 2009. Elles définissent les frontières écologiques sûres pour l'humanité. Il y a 9 limites planétaires, et des études récentes montrent que 6 de ces 9 limites ont déjà été dépassées, ce qui menace la stabilité de la planète :
+Les limites planétaires sont un concept proposé par un groupe de scientifiques dirigé par Johan Rockström en 2009. Elles définissent les frontières écologiques sûres pour l'humanité. Il y a 9 limites planétaires, et des études récentes montrent que six de ces neuf limites ont déjà été dépassées, ce qui menace la stabilité de la planète :
 
-1. **Changement climatique** 🌡️
-2. **Perte de biodiversité** 🌿
-3. **Perturbation des cycles de l'azote et du phosphore** ⚗️
-4. **Changement d'utilisation des sols** 🛤️
-5. **Acidification des océans** 🌊
-6. **Utilisation de l'eau douce** 💧
-7. **Pollution chimique** ☠️
-8. **Charge atmosphérique en aérosols** 🌫️
-9. **Appauvrissement de la couche d'ozone** 🌌
+- :warning: Changement climatique 🌡️ - Indicateur : Augmentation de la température moyenne mondiale.
+- :warning: Perte de biodiversité 🌿 - Indicateur : Taux d'extinction des espèces.
+- :warning: Perturbation des cycles de l'azote et du phosphore ⚗️ - Indicateur : Taux de pollution des sols et des eaux.
+- :warning: Changement d'utilisation des sols 🛤️ - Indicateur : Taux de déforestation et d'urbanisation.
+- :warning: Acidification des océans 🌊 - Indicateur : pH des océans.
+- :warning: Utilisation de l'eau douce 💧 - Indicateur : Utilisation des réserves d'eau douce.
+- Pollution chimique ☠️
+- Charge atmosphérique en aérosols 🌫️
+- Appauvrissement de la couche d'ozone 🌌
+
+Cette situation met en évidence l'urgence d'agir pour préserver notre planète et souligne l'importance du Green IT dans la réduction de notre empreinte environnementale.
+
 
 | **Limite Planétaire**                | **Description**                                                           | **Indicateurs**                          | **Date**       | **Exemples**                             | **Top 5 des Conséquences**                                   | **Actions à Faire**                                                                                                                                                                       |
 |--------------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------|------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
