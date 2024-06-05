@@ -95,15 +95,16 @@ L'EcoIndex est un outil d'évaluation environnementale des sites web, visant à 
 
 Voici une synthèse sous forme de tableau expliquant les notes de A à G dans l'EcoIndex :
 
-| Note | Signification                                                                                                                             |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| A    | Excellente : Le site web présente un faible impact environnemental et adopte des pratiques de développement durable.                      |
-| B    | Bonne : Le site web affiche un impact environnemental modéré et intègre quelques pratiques durables.                                    |
-| C    | Satisfaisante : Le site web a un impact environnemental moyen et pourrait bénéficier d'améliorations.                                    |
-| D    | Passable : Le site web a un impact environnemental notable et nécessite des ajustements significatifs.                                   |
-| E    | Médiocre : Le site web a un impact environnemental élevé et nécessite une révision approfondie de ses pratiques.                         |
-| F    | Insuffisante : Le site web a un impact environnemental très élevé et requiert des changements majeurs.                                  |
-| G    | Très insuffisante : Le site web a un impact environnemental extrêmement élevé et doit être complètement repensé.                        |
+| Note | Signification                                                                                                                    |
+|------|--------------------------------------------------------------------------------------------------------------------------------|
+| A    | 🌱 Excellente : Le site web présente un faible impact environnemental et adopte des pratiques de développement durable.            |
+| B    | ✅ Bonne : Le site web affiche un impact environnemental modéré et intègre quelques pratiques durables.                            |
+| C    | ✏️ Satisfaisante : Le site web a un impact environnemental moyen et pourrait bénéficier d'améliorations.                           |
+| D    | 🛠️ Passable : Le site web a un impact environnemental notable et nécessite des ajustements significatifs.                         |
+| E    | 🚨 Médiocre : Le site web a un impact environnemental élevé et nécessite une révision approfondie de ses pratiques.                 |
+| F    | ⚠️ Insuffisante : Le site web a un impact environnemental très élevé et requiert des changements majeurs.                         |
+| G    | ❌ Très insuffisante : Le site web a un impact environnemental extrêmement élevé et doit être complètement repensé.               |
+
 
 ### Bonnes Pratiques d'Écoconception Web avec Indicateurs et Exemples
 
