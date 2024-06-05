@@ -42,6 +42,22 @@ Cette situation met en évidence l'urgence d'agir pour préserver notre planète
 | **Acidification des océans**        | Augmentation du pH des océans due à l'absorption du CO2 atmosphérique.  | Niveau de pH des océans                   | En cours       | Émissions de CO2                          | - Menace pour les écosystèmes marins                        | - Réduire les émissions de CO2 et limiter l'acidification des océans <br> - Encourager la protection des récifs coralliens et des écosystèmes marins                                      |
 | **Utilisation de l'eau douce**      | Consommation excessive d'eau douce pour l'agriculture et l'industrie.    | Taux de prélèvement d'eau douce          | En cours       | Irrigation intensive, industries         | - Stress hydrique dans les régions arides                  | - Adopter des pratiques agricoles et industrielles plus économes en eau <br> - Favoriser la réutilisation et la gestion durable des ressources en eau                                          |
 
+## Impact des Secteurs sur le Réchauffement Climatique
+
+| Numéro | Secteur                           | Impact sur le Réchauffement Climatique | Pourcentage d'Impact | Principaux Facteurs                                  | Solutions Possibles                                      |
+|--------|----------------------------------|----------------------------------------|----------------------|------------------------------------------------------|----------------------------------------------------------|
+| 1      | Industrie                         | Émissions de gaz à effet de serre, pollution | 25%                 | Processus de fabrication, utilisation d'énergies fossiles | Utilisation d'énergies renouvelables, optimisation des processus   |
+| 2      | Transport                         | Émissions de CO2, pollution atmosphérique | 20%                 | Utilisation de carburants fossiles, émissions des véhicules | Transports en commun, véhicules électriques                  |
+| 3      | Agriculture                       | Déforestation, émissions de méthane    | 15%                 | Utilisation d'engrais chimiques, déforestation        | Agriculture biologique, pratiques de conservation des sols     |
+| 4      | Énergie (non renouvelable)       | Émissions de CO2, extraction de combustibles fossiles | 12%                 | Utilisation de charbon, pétrole et gaz naturel         | Transition vers les énergies renouvelables, amélioration de l'efficacité énergétique  |
+| 5      | Construction                      | Utilisation intensive de ressources, émissions de CO2 | 10%                 | Utilisation de matériaux non durables, émissions des bâtiments | Construction écologique, matériaux durables               |
+| 6      | Déforestation                     | Perte de puits de carbone, destruction d'habitats | 8%                  | Défrichement pour l'agriculture et l'élevage, exploitation forestière | Reforestation, protection des écosystèmes                  |
+| 7      | Industrie alimentaire             | Émissions de gaz à effet de serre, déforestation | 6%                  | Déforestation pour l'expansion agricole, utilisation d'engrais et de pesticides | Agriculture durable, alimentation végétale                   |
+| 8      | Utilisation des sols             | Déforestation, perte de biodiversité    | 4%                  | Déforestation pour l'agriculture et l'urbanisation, érosion des sols | Gestion durable des terres, reboisement                      |
+| 9      | Gestion des déchets               | Émissions de méthane, pollution         | 3%                  | Méthodes d'élimination des déchets, décharges non contrôlées | Recyclage, compostage, gestion des déchets organiques        |
+| 10     | Technologies de l'Information (IT) | Consommation d'énergie, émissions de CO2 | 2%                  | Utilisation de data centers, obsolescence rapide des appareils | Virtualisation, efficacité énergétique des data centers      |
+
+
 
 ## 🌱 Tableau des Principes et Pratiques de l'Écoconception de Sites Web
 
