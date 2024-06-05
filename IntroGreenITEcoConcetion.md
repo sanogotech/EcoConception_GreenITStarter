@@ -1,5 +1,7 @@
 # Écoconception de Sites Web et Green IT
 
+**L'écoconception de sites web et les pratiques de Green IT sont essentielles pour réduire l'impact environnemental des technologies numériques**
+
 ## Introduction
 
 L'écoconception de sites web et le Green IT (Technologies de l'Information vertes) sont des approches visant à minimiser l'impact environnemental des technologies numériques. L'objectif est de réduire l'empreinte carbone et d'optimiser l'efficacité énergétique des sites web.
