@@ -1,4 +1,4 @@
-# Écoconception de Sites Web et Green IT
+# 🌱 Écoconception de Sites Web et Green IT 🌍
 
 **L'écoconception de sites web et les pratiques de Green IT sont essentielles pour réduire l'impact environnemental des technologies numériques**
 
@@ -9,11 +9,13 @@ L'écoconception de sites web et le Green IT (Technologies de l'Information vert
 ## Objectifs de l'écoconception et du Green IT
 
 Les principaux objectifs de l'écoconception et du Green IT incluent :
-- **Réduction de la consommation énergétique** : Minimiser l'énergie utilisée par les serveurs, les réseaux et les dispositifs des utilisateurs.
-- **Optimisation des ressources** : Utiliser efficacement les ressources matérielles et logicielles pour prolonger leur durée de vie et réduire les déchets électroniques.
-- **Réduction des émissions de CO2** : Diminuer l'empreinte carbone des activités numériques en optimisant les performances et en utilisant des sources d'énergie renouvelables.
-- **Sensibilisation et éducation** : Promouvoir des pratiques de développement durable auprès des développeurs, des entreprises et des utilisateurs finaux.
-- **Innovation durable** : Encourager l'innovation technologique qui respecte l'environnement et contribue à un développement durable.
+- 🔄 **Réduction de la consommation énergétique** : Minimiser l'énergie utilisée par les serveurs, les réseaux et les dispositifs des utilisateurs.
+- ♻️ **Optimisation des ressources** : Utiliser efficacement les ressources matérielles et logicielles pour prolonger leur durée de vie et réduire les déchets électroniques.
+- 🌍 **Réduction des émissions de CO2** : Diminuer l'empreinte carbone des activités numériques en optimisant les performances et en utilisant des sources d'énergie renouvelables.
+- 📚 **Sensibilisation et éducation** : Promouvoir des pratiques de développement durable auprès des développeurs, des entreprises et des utilisateurs finaux.
+- 💡 **Innovation durable** : Encourager l'innovation technologique qui respecte l'environnement et contribue à un développement durable.
+
+
 
 ## Les 9 Limites Planétaires et l'Importance du Green IT : 6/9 KO ???
 
