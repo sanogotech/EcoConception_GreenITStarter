@@ -70,6 +70,37 @@ Les limites planétaires sont un concept proposé par un groupe de scientifiques
 | **Domaines d'application**     | - Conception et gestion des data centers. <br> - Développement de logiciels éco-responsables.                                                               | - Agriculture intelligente. <br> - Gestion intelligente de l'énergie. <br> - Transport et logistique verts.                                                            |
 | **Acteurs principaux**         | Entreprises IT, développeurs de logiciels, gestionnaires de data centers.                                                                                   | Agriculteurs, gestionnaires de réseaux énergétiques, entreprises de transport, organisations environnementales.                                                      |
 
+
+### Indicateurs Moyens pour une Page Web Normale
+
+Voici une liste de 20 indicateurs supplémentaires avec leurs valeurs moyennes :
+
+| Indicateur                                   | Valeur moyenne                                |
+|----------------------------------------------|-----------------------------------------------|
+| Nombre de requêtes HTTP                      | Entre 50 et 100                              |
+| Taille moyenne d'une page web                | Entre 1 et 2 mégaoctets (Mo)                 |
+| Formats d'images les plus courants           | JPEG, PNG, GIF                               |
+| Taille moyenne des images                    | Entre 50 et 200 kilooctets (Ko)               |
+| Nombre moyen de scripts                      | Entre 5 et 10                                |
+| Nombre moyen de feuilles de style (CSS)      | Entre 1 et 3                                 |
+| Nombre moyen de polices de caractères        | Entre 2 et 5                                 |
+| Nombre moyen de requêtes vers des domaines externes | Entre 5 et 10                        |
+| Temps de chargement moyen d'une page         | Entre 2 et 5 secondes                        |
+| Taux de compression moyen des ressources     | Entre 50% et 70%                             |
+| Nombre moyen de cookies                      | Entre 1 et 3                                 |
+| Nombre moyen de balises HTML                 | Entre 50 et 100                              |
+| Taille moyenne des scripts                   | Entre 100 et 500 kilooctets (Ko)              |
+| Taille moyenne des feuilles de style (CSS)   | Entre 50 et 200 kilooctets (Ko)               |
+| Nombre moyen de balises d'images             | Entre 5 et 10                                |
+| Nombre moyen de balises de liens (a)         | Entre 10 et 20                               |
+| Nombre moyen de requêtes AJAX                | Entre 2 et 5                                 |
+| Taille moyenne des fichiers JavaScript       | Entre 50 et 200 kilooctets (Ko)               |
+| Nombre moyen de balises de vidéos            | Entre 0 et 2                                 |
+| Nombre moyen de balises audio                | Entre 0 et 1                                 |
+| Taille moyenne des vidéos                    | Entre 1 et 10 mégaoctets (Mo)                 |
+
+Ces valeurs sont également des estimations générales et peuvent varier en fonction de divers facteurs. 📊✨
+
 ## Conclusion
 
 L'écoconception de sites web et les pratiques de Green IT sont essentielles pour réduire l'impact environnemental des technologies numériques. En adoptant ces pratiques et en utilisant les outils disponibles, les développeurs et les entreprises peuvent créer des sites web plus durables et respectueux de l'environnement. Cette approche globale et continue nécessite l'engagement de toutes les parties prenantes pour promouvoir un internet plus vert et durable.
