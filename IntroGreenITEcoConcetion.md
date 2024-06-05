@@ -1,12 +1,12 @@
-# 🌱 Écoconception de Sites Web et Green IT 🌍
+# 🌱 Écoconception de Sites Web et Green 🌿 IT 🌍
 
 **L'écoconception de sites web et les pratiques de Green IT sont essentielles pour réduire l'impact environnemental des technologies numériques**
 
-## Introduction
+## 🚀  Introduction
 
 L'écoconception de sites web et le Green IT (Technologies de l'Information vertes) sont des approches visant à minimiser l'impact environnemental des technologies numériques. L'objectif est de réduire l'empreinte carbone et d'optimiser l'efficacité énergétique des sites web.
 
-## Objectifs de l'écoconception et du Green IT
+## 🎯 Objectifs de l'écoconception et du Green IT
 
 Les principaux objectifs de l'écoconception et du Green IT incluent :
 - 🔄 **Réduction de la consommation énergétique** : Minimiser l'énergie utilisée par les serveurs, les réseaux et les dispositifs des utilisateurs.
@@ -58,7 +58,7 @@ Les limites planétaires sont un concept proposé par un groupe de scientifiques
 | **Suivi des émissions de CO2**           | - Utilisation d'outils pour mesurer les émissions de CO2. <br> - Stratégies de compensation carbone si nécessaire.                                               | Mesurer et compenser les émissions de carbone générées par le site web.                                                  | Website Carbon Calculator, Ecograder, [EcoIndex](https://www.ecoindex.fr/)    |
 | **Outils et ressources**                 | - PageSpeed Insights, WebPageTest, GTmetrix pour l'optimisation des performances. <br> - Ecograder pour l'évaluation écologique. <br> - Green Web Foundation pour vérifier les hébergeurs. | Fournir des outils spécifiques pour analyser et améliorer les performances et l'impact écologique des sites web.          | PageSpeed Insights, WebPageTest, GTmetrix, Ecograder, [EcoIndex](https://www.ecoindex.fr/), Plugin Chrome EcoIndex |
 
-## Comparaison entre Green IT et IT for Green
+## 🌍 Comparaison entre Green IT et IT for Green
 
 | **Aspect**                     | **Green IT**                                                                                                                                               | **IT for Green**                                                                                                                                                     |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
