@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rapport Éco-conception & Performance</title>
+    <style>
+        body { font-family: system-ui, sans-serif; margin: 0; padding: 20px; background: #f5f7fb; }
+        .container { max-width: 1400px; margin: auto; }
+        h1, h2 { color: #1e2a3e; }
+        .page-card { background: white; border-radius: 16px; margin-bottom: 30px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .page-header { background: #2c3e50; color: white; padding: 15px 20px; cursor: pointer; }
+        .page-header h3 { margin: 0; }
+        .page-content { padding: 20px; display: none; }
+        .page-content.open { display: block; }
+        .score-grid { display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px; }
+        .score-card { flex: 1; background: #f8f9fa; border-radius: 12px; padding: 12px; text-align: center; }
+        .score-value { font-size: 28px; font-weight: bold; }
+        .good { color: #2b9348; }
+        .medium { color: #e9a23b; }
+        .bad { color: #d00000; }
+        .problems-table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        .problems-table th, .problems-table td { border: 1px solid #dee2e6; padding: 8px 12px; vertical-align: top; }
+        .problems-table th { background: #e9ecef; }
+        .recommendation { background: #e3f2fd; border-left: 4px solid #0d6efd; padding: 12px; margin: 10px 0; }
+        button.toggle-all { background: #0d6efd; color: white; border: none; padding: 8px 16px; border-radius: 8px; margin-bottom: 20px; cursor: pointer; }
+    </style>
+    <script>
+        function togglePage(id) {
+            document.getElementById('content-' + id).classList.toggle('open');
+        }
+        function toggleAll() {
+            let contents = document.querySelectorAll('.page-content');
+            let anyClosed = Array.from(contents).some(c => !c.classList.contains('open'));
+            contents.forEach(c => c.classList.toggle('open', anyClosed));
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+    <h1>🌿 Rapport d'éco-conception et performance</h1>
+    <p>Généré le 2026-04-24 11:01:03 — Analyse de 4 page(s) HTML avec Lighthouse.</p>
+    <button class="toggle-all" onclick="toggleAll()">🔽 Tout déplier / replier</button>
+
+        <div class="page-card">
+            <div class="page-header" onclick="togglePage(0)"><h3>📄 ecoconceptionpage.html</h3></div>
+            <div class="page-content" id="content-0">
+                <div class="score-grid">
+                    <div class="score-card"><div class="score-value good">96.0</div><div>Performance</div></div>
+                    <div class="score-card"><div class="score-value good">97.0</div><div>Accessibilité</div></div>
+                    <div class="score-card"><div class="score-value good">96.0</div><div>Bonnes pratiques</div></div>
+                    <div class="score-card"><div class="score-value good">100.0</div><div>SEO</div></div>
+                </div>
+                <div class="recommendation">
+                    📊 Métriques clés : Poids 82 Ko | FCP 1.00s | LCP 1.08s | TBT 0 ms | CLS 0.000
+                </div>
+                <h4>🔝 Top 5 des problèmes à corriger</h4>
+                <table class="problems-table">
+                    <tr><th>#</th><th>Audit</th><th>Description</th><th>Score</th><th>Recommandation</th></tr>
+        <tr><td>1</td><td><strong>Browser errors were logged to the console</strong></td><td>Errors logged to the console indicate unresolved problems. They can come from network request failures and other browser concerns. [Learn more about this errors in console diagnostic audit](https://developer.chrome.com/docs/lighthouse/best-practices/errors-in-console/)</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>2</td><td><strong>Heading elements are not in a sequentially-descending order</strong></td><td>Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more about heading order](https://dequeuniversity.com/rules/axe/4.11/heading-order).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>3</td><td><strong>Reduce unused CSS</strong></td><td>Reduce unused rules from stylesheets and defer CSS not used for above-the-fold content to decrease bytes consumed by network activity. [Learn how to reduce unused CSS](https://developer.chrome.com/docs/lighthouse/performance/unused-css-rules/).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>4</td><td><strong>Reduce unused JavaScript</strong></td><td>Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>5</td><td><strong>Network dependency tree</strong></td><td>[Avoid chaining critical requests](https://developer.chrome.com/docs/performance/insights/network-dependency-tree) by reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load.</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr>
+                </table>
+            </div>
+        </div>
+        
+        <div class="page-card">
+            <div class="page-header" onclick="togglePage(1)"><h3>📄 mauvaisepage.html</h3></div>
+            <div class="page-content" id="content-1">
+                <div class="score-grid">
+                    <div class="score-card"><div class="score-value medium">55.0</div><div>Performance</div></div>
+                    <div class="score-card"><div class="score-value medium">85.0</div><div>Accessibilité</div></div>
+                    <div class="score-card"><div class="score-value medium">73.0</div><div>Bonnes pratiques</div></div>
+                    <div class="score-card"><div class="score-value good">91.0</div><div>SEO</div></div>
+                </div>
+                <div class="recommendation">
+                    📊 Métriques clés : Poids 2382 Ko | FCP 1.68s | LCP 2.52s | TBT 0 ms | CLS 0.707
+                </div>
+                <h4>🔝 Top 5 des problèmes à corriger</h4>
+                <table class="problems-table">
+                    <tr><th>#</th><th>Audit</th><th>Description</th><th>Score</th><th>Recommandation</th></tr>
+        <tr><td>1</td><td><strong>Browser errors were logged to the console</strong></td><td>Errors logged to the console indicate unresolved problems. They can come from network request failures and other browser concerns. [Learn more about this errors in console diagnostic audit](https://developer.chrome.com/docs/lighthouse/best-practices/errors-in-console/)</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>2</td><td><strong>Uses third-party cookies</strong></td><td>Third-party cookies may be blocked in some contexts. [Learn more about preparing for third-party cookie restrictions](https://privacysandbox.google.com/cookies/prepare/overview).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>3</td><td><strong>Avoid large layout shifts</strong></td><td>These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due </td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>4</td><td><strong>Background and foreground colors do not have a sufficient contrast ratio.</strong></td><td>Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.11/color-contrast).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>5</td><td><strong>Heading elements are not in a sequentially-descending order</strong></td><td>Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more about heading order](https://dequeuniversity.com/rules/axe/4.11/heading-order).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr>
+                </table>
+            </div>
+        </div>
+        
+        <div class="page-card">
+            <div class="page-header" onclick="togglePage(2)"><h3>📄 lighthouse_reports\Bonne_page_(eco).report.html</h3></div>
+            <div class="page-content" id="content-2">
+                <div class="score-grid">
+                    <div class="score-card"><div class="score-value good">98.0</div><div>Performance</div></div>
+                    <div class="score-card"><div class="score-value good">98.0</div><div>Accessibilité</div></div>
+                    <div class="score-card"><div class="score-value good">100.0</div><div>Bonnes pratiques</div></div>
+                    <div class="score-card"><div class="score-value good">91.0</div><div>SEO</div></div>
+                </div>
+                <div class="recommendation">
+                    📊 Métriques clés : Poids 765 Ko | FCP 0.85s | LCP 0.87s | TBT 72 ms | CLS 0.000
+                </div>
+                <h4>🔝 Top 5 des problèmes à corriger</h4>
+                <table class="problems-table">
+                    <tr><th>#</th><th>Audit</th><th>Description</th><th>Score</th><th>Recommandation</th></tr>
+        <tr><td>1</td><td><strong>Missing source maps for large first-party JavaScript</strong></td><td>Source maps translate minified code to the original source code. This helps developers debug in production. In addition, Lighthouse is able to provide further insights. Consider deploying source maps to take advantage of these benefits. [Learn more about source maps](https://developer.chrome.com/doc</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>2</td><td><strong>Document does not have a main landmark.</strong></td><td>One main landmark helps screen reader users navigate a web page. [Learn more about landmarks](https://dequeuniversity.com/rules/axe/4.11/landmark-one-main).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>3</td><td><strong>Document does not have a meta description</strong></td><td>Meta descriptions may be included in search results to concisely summarize page content. [Learn more about the meta description](https://developer.chrome.com/docs/lighthouse/seo/meta-description/).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>4</td><td><strong>Image elements do not have explicit `width` and `height`</strong></td><td>Set an explicit width and height on image elements to reduce layout shifts and improve CLS. [Learn how to set image dimensions](https://web.dev/articles/optimize-cls#images_without_dimensions)</td><td style='color:red'>50/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>5</td><td><strong>Minify CSS</strong></td><td>Minifying CSS files can reduce network payload sizes. [Learn how to minify CSS](https://developer.chrome.com/docs/lighthouse/performance/unminified-css/).</td><td style='color:red'>50/100</td><td>Minifiez tous vos fichiers CSS (cssnano, build tool).</td></tr>
+                </table>
+            </div>
+        </div>
+        
+        <div class="page-card">
+            <div class="page-header" onclick="togglePage(3)"><h3>📄 lighthouse_reports\Mauvaise_page_(non-eco).report.html</h3></div>
+            <div class="page-content" id="content-3">
+                <div class="score-grid">
+                    <div class="score-card"><div class="score-value good">95.0</div><div>Performance</div></div>
+                    <div class="score-card"><div class="score-value good">98.0</div><div>Accessibilité</div></div>
+                    <div class="score-card"><div class="score-value good">100.0</div><div>Bonnes pratiques</div></div>
+                    <div class="score-card"><div class="score-value good">91.0</div><div>SEO</div></div>
+                </div>
+                <div class="recommendation">
+                    📊 Métriques clés : Poids 1175 Ko | FCP 1.16s | LCP 1.17s | TBT 0 ms | CLS 0.000
+                </div>
+                <h4>🔝 Top 5 des problèmes à corriger</h4>
+                <table class="problems-table">
+                    <tr><th>#</th><th>Audit</th><th>Description</th><th>Score</th><th>Recommandation</th></tr>
+        <tr><td>1</td><td><strong>Missing source maps for large first-party JavaScript</strong></td><td>Source maps translate minified code to the original source code. This helps developers debug in production. In addition, Lighthouse is able to provide further insights. Consider deploying source maps to take advantage of these benefits. [Learn more about source maps](https://developer.chrome.com/doc</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>2</td><td><strong>Document does not have a main landmark.</strong></td><td>One main landmark helps screen reader users navigate a web page. [Learn more about landmarks](https://dequeuniversity.com/rules/axe/4.11/landmark-one-main).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>3</td><td><strong>Document does not have a meta description</strong></td><td>Meta descriptions may be included in search results to concisely summarize page content. [Learn more about the meta description](https://developer.chrome.com/docs/lighthouse/seo/meta-description/).</td><td style='color:red'>0/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>4</td><td><strong>Image elements do not have explicit `width` and `height`</strong></td><td>Set an explicit width and height on image elements to reduce layout shifts and improve CLS. [Learn how to set image dimensions](https://web.dev/articles/optimize-cls#images_without_dimensions)</td><td style='color:red'>50/100</td><td>Consultez la documentation Lighthouse pour corriger cet audit.</td></tr><tr><td>5</td><td><strong>Minify CSS</strong></td><td>Minifying CSS files can reduce network payload sizes. [Learn how to minify CSS](https://developer.chrome.com/docs/lighthouse/performance/unminified-css/).</td><td style='color:red'>50/100</td><td>Minifiez tous vos fichiers CSS (cssnano, build tool).</td></tr>
+                </table>
+            </div>
+        </div>
+        
+    <footer><p>🔍 Audit Lighthouse (Chrome Headless). Un score > 90 est excellent.<br>💡 Améliorez l'éco-conception : réduisez le poids, lazy loading, polices système, cache, JS minimal.</p></footer>
+</div>
+</body>
+</html>
