@@ -15,8 +15,8 @@ from datetime import datetime
 
 # Configuration
 URLS = {
-    "Bonne page (eco)": "bonne-page.html",      # Remplacez par le chemin absolu ou serveur local
-    "Mauvaise page (non-eco)": "mauvaise-page.html"
+    "Bonne page (eco)": "ecoconceptionpage.html",      # Remplacez par le chemin absolu ou serveur local
+    "Mauvaise page (non-eco)": "mauvaisepage.html"
 }
 OUTPUT_DIR = "lighthouse_reports"
 PORT = 8000  # port pour serveur HTTP local si fichiers locaux
