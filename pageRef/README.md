@@ -4,8 +4,8 @@
 Ce projet fournit un environnement d’apprentissage et d’audit pour enseigner les **bonnes pratiques d’éco-conception web** aux développeurs. Il contient :
 
 - Deux pages HTML contrastées :
-  - `bonne-page.html` : page respectant le **Top 40 des bonnes pratiques** (performante, légère, accessible)
-  - `mauvaise-page.html` : page volontairement non optimisée (lourde, lente, énergivore)
+  - `ecoconceptionpage.html` : page respectant le **Top 40 des bonnes pratiques** (performante, légère, accessible)
+  - `mauvaisepage.html` : page volontairement non optimisée (lourde, lente, énergivore)
 - Un script Python `lighthouse_eco_eval.py` pour comparer ces deux pages via Lighthouse.
 - Un script `batch_lighthouse_eco.py` pour **analyser tous les fichiers HTML d’un répertoire** et générer un rapport détaillé avec le **top 5 des problèmes** et des recommandations.
 
