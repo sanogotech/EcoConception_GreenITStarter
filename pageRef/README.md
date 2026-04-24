@@ -27,8 +27,8 @@ L’objectif est de montrer concrètement l’impact du code sur les performance
 
 ```
 projet-eco-conception/
-├── bonne-page.html               # Page exemplaire éco-conçue
-├── mauvaise-page.html            # Page anti-éco-conception (volontairement mauvaise)
+├── ecoconceptionpage.html               # Page exemplaire éco-conçue
+├── mauvaisepage.html            # Page anti-éco-conception (volontairement mauvaise)
 ├── lighthouse_eco_eval.py        # Script d'évaluation unitaire (comparaison 1 page vs 1 autre)
 ├── batch_lighthouse_eco.py       # Script d'analyse batch (dossier entier)
 └── README.md
@@ -48,7 +48,7 @@ python lighthouse_eco_eval.py
 
 Le script :
 - Démarre un serveur HTTP local sur le port 8000
-- Lance Lighthouse sur `bonne-page.html` et `mauvaise-page.html`
+- Lance Lighthouse sur `ecoconceptionpage.html` et `mauvaisepage.html`
 - Affiche un tableau comparatif des métriques (Performance, accessibilité, poids, CLS, etc.)
 - Ouvre les rapports HTML complets dans votre navigateur
 - Génère un résumé texte `eco_audit_summary.txt`
