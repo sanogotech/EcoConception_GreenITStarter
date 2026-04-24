@@ -1,0 +1,18 @@
+RAPPORT D'AUDIT ÉCO-CONCEPTION
+Date : 2026-04-24 10:45:39.339083
+
+✅ Bonne page : Performance Lighthouse = 96.0/100
+❌ Mauvaise page : Performance Lighthouse = 61.0/100
+📉 Écart de performance : 35.0 points.
+
+Recommandations pour corriger la 'mauvaise page' :
+- Appliquer lazy loading sur toutes les images (<img loading='lazy'>)
+- Convertir les images en WebP et ajouter srcset
+- Supprimer les polices externes (utiliser système)
+- Déplacer les scripts JS en bas de page avec defer/async
+- Éviter les iframes et widgets météo inutiles
+- Réduire le DOM (< 1000 nœuds)
+- Mettre en cache statique, minifier CSS/JS
+- Désactiver les trackers superflus
+- Ajouter des dimensions width/height aux images
+- Supprimer les intervalles intempestifs et listeners scroll sans throttling
